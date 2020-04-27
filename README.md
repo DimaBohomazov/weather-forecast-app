@@ -1,3 +1,11 @@
+## If you want to run this application, you have to:
+   1. Create file `keys.js` (src/utils/keys.js)
+   2. Get your valid API keys from: 
+        maps.googleapis.com,
+        openweathermap.org,
+        geohelper.info
+   3.Add your API keys to `keys.js`, and export then to `api.js`         
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
